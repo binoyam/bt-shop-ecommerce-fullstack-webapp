@@ -1,5 +1,4 @@
-cd server
+git clone https://github.com/binoyam/flaskapp.git
+cd flaskapp
 pip install -r requirements.txt
 python app.py
-
-host mysql https://www.youtube.com/watch?v=TMGHOW8Hzvw
